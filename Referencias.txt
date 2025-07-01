@@ -1,0 +1,14 @@
+Originalidade
+O design e o conteúdo deste website foram desenvolvidos por mim, buscando criar uma identidade visual única e adaptada ao tema do portfólio pessoal. Todo o layout, estrutura e estilo foram idealizados para garantir uma boa experiência de usuário, responsividade e clareza na apresentação das informações.
+
+Para enriquecer o projeto, utilizei alguns recursos externos devidamente licenciados:
+
+FontAwesome para os ícones, uma biblioteca de uso livre para projetos pessoais e acadêmicos (https://fontawesome.com/).
+
+A fonte Inter, obtida pelo Google Fonts, licenciada sob a SIL Open Font License (https://fonts.google.com/specimen/Inter).
+
+Algumas imagens foram encontradas via pesquisa no Google, garantindo que fossem de uso permitido ou com licença adequada para uso em projetos pessoais.
+
+Também utilizei imagens geradas por inteligência artificial para compor visuais exclusivos, garantindo originalidade nas representações gráficas.
+
+Todas as fontes e recursos externos foram citados corretamente, respeitando suas respectivas licenças e garantindo a originalidade e ética no uso do material.
