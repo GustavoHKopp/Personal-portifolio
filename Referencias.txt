@@ -1,5 +1,5 @@
 Originalidade
-O design e o conteúdo deste website foram desenvolvidos por mim, buscando criar uma identidade visual única e adaptada ao tema do portfólio pessoal. Todo o layout, estrutura e estilo foram idealizados para garantir uma boa experiência de usuário, responsividade e clareza na apresentação das informações.
+O design e o conteúdo deste portfólio foram desenvolvidos por mim, com o objetivo de criar uma identidade visual única e alinhada ao tema proposto. Todo o layout e estilo foram pensados com base na minha própria visão e nos princípios de bom design, buscando garantir uma navegação agradável, responsividade e clareza nas informações. Não me inspirei diretamente em nenhum portfólio específico. A ideia foi refletir minha identidade profissional e minhas preferências estéticas.
 
 Para enriquecer o projeto, utilizei alguns recursos externos devidamente licenciados:
 
@@ -10,5 +10,3 @@ A fonte Inter, obtida pelo Google Fonts, licenciada sob a SIL Open Font License 
 Algumas imagens foram encontradas via pesquisa no Google, garantindo que fossem de uso permitido ou com licença adequada para uso em projetos pessoais.
 
 Também utilizei imagens geradas por inteligência artificial para compor visuais exclusivos, garantindo originalidade nas representações gráficas.
-
-Todas as fontes e recursos externos foram citados corretamente, respeitando suas respectivas licenças e garantindo a originalidade e ética no uso do material.
